@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### Please see various project i have worked on here the big one (and the most fun) is the Football manager Repo's
+
+
 <!--
 **herepete/herepete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
