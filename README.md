@@ -2,6 +2,8 @@
 
 ### This Repo contains various project i have worked on. The big one (and the most fun) is the Football manager scripting.
 
+### Please contact me if you have any questions/suggestions as i always like improving and developing my skills,
+
 
 <!--
 **herepete/herepete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
