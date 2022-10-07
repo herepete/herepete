@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### This Repro contains various project i have worked on. The big one (and the most fun) is the Football manager scripting.
+### This Repo contains various project i have worked on. The big one (and the most fun) is the Football manager scripting.
 
 
 <!--
