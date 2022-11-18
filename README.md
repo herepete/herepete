@@ -4,6 +4,10 @@
 
 ### Please contact me if you have any questions/suggestions as i always like improving and developing my skills,
 
+Contact herepete@hotmail.com
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
 
 <!--
 **herepete/herepete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
