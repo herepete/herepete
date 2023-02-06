@@ -13,3 +13,6 @@ Please contact me if you have any questions/suggestions as i always like improvi
 </div>
 <img src="https://komarev.com/ghpvc/?username=herepete&style=flat-square&color=blue" alt=""/>
 
+![Herepete's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=herepete&hide=B,B%2B)
+
+
